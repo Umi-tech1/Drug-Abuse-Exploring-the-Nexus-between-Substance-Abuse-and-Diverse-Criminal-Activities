@@ -67,7 +67,107 @@ The following visuals were created using clustered column chart, bar chart, line
 - chart 8: Crime by age range
 - chart 9: Economic status of the offenders
 
-  # Result:
+# Result/Findings:
+## Drug Consumption Patterns
+### General Statistics:
+Total number of incidents analyzed: 20,181.
+69% of offenders are male, and 31% are female.
+Four drugs consumed: Cocaine, Heroin, Marijuana, and Methamphetamine.
+
+### Drug Consumption by Gender:
+- Males:
+Cocaine: 3,530 (25.35% of male offenders).
+Heroin: 3,475 (24.96%).
+Marijuana: 3,530 (25.35%).
+Methamphetamine: 3,486 (25.01%).
+- Females:
+Cocaine: 1,529 (24.43% of female offenders).
+Heroin: 1,569 (25.07%).
+Marijuana: 1,485 (23.74%).
+Methamphetamine: 1,577 (25.21%).
+
+### Drug Consumption by Age Range:
+
+- Middle Age (26–38 years): Heroin (25.40%), Cocaine (25.07%), Marijuana (24.78%), Methamphetamine (24.75%).
+- Senior Age (39–59 years): Cocaine (25.46%), Heroin (24.51%), Marijuana (24.57%), Methamphetamine (25.46%).
+- Adolescents (18–25 years): Marijuana (25.37%) and Methamphetamine (25.19%) are the most consumed.
+- Elderly (60+ years): Heroin consumption dominates (28.71%), followed by Cocaine (24.75%).
+
+## 2. Crime Analysis
+
+### Crime Patterns by Time:
+Wednesday witnesses the highest number of crimes, while Thursday sees the lowest.
+August experiences the highest crime rate, whereas January has the lowest.
+
+### Types of Crimes:
+Theft is the most prevalent crime, followed by Burglary, Vandalism, and Assault.
+
+### Crime Locations:
+Urban areas have the highest crime rate, followed by Downtown, Suburbs, and Rural areas.
+
+### Economic Status of Offenders:
+Low-income offenders: 10,080 (50% of total).
+Middle-income offenders: 5,000 (25% of total).
+High-income offenders: 5,100 (25% of total).
+
+
+# Insights
+## Drug-Related Patterns:
+
+Males have higher involvement in drug-related crimes, with Cocaine and Marijuana being the most consumed drugs.
+Among females, Methamphetamine has slightly higher consumption, suggesting targeted interventions are needed for specific drugs across genders.
+Heroin consumption dominates among the elderly, highlighting potential vulnerabilities in this age group.
+
+## Crime Patterns:
+- Theft and burglary are primary crime drivers, likely linked to economic motives, as low-income offenders represent 50% of total offenders.
+Urban areas and Downtown regions exhibit the highest crime rates, requiring focused law enforcement efforts.
+Seasonal and Weekly Trends:
+
+- Crime rates peak in August, possibly due to increased activity during the summer months.
+Wednesdays being the highest crime day may relate to work schedules or social patterns.
+Socioeconomic Factors:
+
+- Low-income offenders make up the largest proportion, indicating a potential link between poverty and crime.
+Middle- and high-income offenders also contribute significantly, suggesting crime prevention strategies should not exclusively target low-income areas.
+
+# Recommendations 
+## Drug Prevention Strategies:
+
+- Focused anti-drug campaigns targeting males, particularly those consuming Cocaine and Marijuana.
+Age-specific intervention programs:
+- Youth and adolescents: Education programs focusing on the risks of Marijuana and Methamphetamine use.
+- Elderly: Rehabilitation programs addressing Heroin addiction.
+- Increased monitoring in regions with high Methamphetamine usage, particularly among females.
+
+## Crime Deterrence Measures:
+
+- Urban and downtown areas should receive increased police presence and surveillance, as they experience the highest crime rates.
+- Theft and burglary prevention: Community engagement programs to encourage vigilance.
+- Deployment of resources to high-theft areas based on urban crime heatmaps.
+
+## Targeting Seasonal Crime Spikes:
+
+- Prepare for a surge in criminal activities in August by allocating additional patrols and resources during this period.
+- Engage in public awareness campaigns to encourage crime reporting and discourage theft and burglary during peak months.
+
+## Socioeconomic Interventions:
+- Collaborate with community organizations to provide skill-building and employment opportunities for low-income individuals to reduce crime drivers.
+- Introduce rehabilitation programs for offenders from middle- and high-income backgrounds, focusing on addressing the causes of their criminal behavior.
+
+## Data-Driven Policing:
+- Use predictive analytics tools to map high-crime zones and identify patterns in drug-related offenses.
+- Employ geospatial tools for targeted policing in urban and downtown areas.
+
+## Partnerships and Rehabilitation:
+- Partner with addiction treatment centers to address the link between drug consumption and crime.
+- Implement age-specific rehabilitation programs tailored to address the drug types most consumed by each demographic.
+
+# Conclusions:
+The analysis reveals a strong correlation between drug consumption and crime incidents, with distinct patterns based on gender, age, socioeconomic status, and geography. 
+Targeted interventions addressing these factors, along with data-driven law enforcement strategies, can help reduce crime rates and drug usage. Focus on vulnerable demographics, 
+such as low-income individuals and specific age groups, will be crucial in creating effective policies.
+
+
   
 
 
