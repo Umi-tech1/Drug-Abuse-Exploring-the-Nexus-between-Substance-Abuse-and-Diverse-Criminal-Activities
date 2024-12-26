@@ -68,7 +68,7 @@ The following visuals were created using clustered column chart, bar chart, line
 - chart 9: Economic status of the offenders
 
 # Result/Findings:
-## Drug Consumption Patterns
+## 1. Drug Consumption Patterns
 ### General Statistics:
 Total number of incidents analyzed: 20,181.
 69% of offenders are male, and 31% are female.
