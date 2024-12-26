@@ -67,6 +67,8 @@ The following visuals were created using clustered column chart, bar chart, line
 - chart 8: Crime by age range
 - chart 9: Economic status of the offenders
 
+  # Dashboard:[Drug Analysis.pdf](https://github.com/user-attachments/files/18252204/Drug.Analysis.pdf)
+
 # Result/Findings:
 ## 1. Drug Consumption Patterns
 ### General Statistics:
